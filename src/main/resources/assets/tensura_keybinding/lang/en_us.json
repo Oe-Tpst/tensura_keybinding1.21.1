@@ -1,0 +1,14 @@
+{
+  "key.categories.tensura_keybinding": "Tensura: Key Binding",
+  "key.tensura_keybinding.slot_1": "Trigger skill slot 1",
+  "key.tensura_keybinding.slot_2": "Trigger skill slot 2",
+  "key.tensura_keybinding.slot_3": "Trigger skill slot 3",
+
+  "screen.tensura_keybinding.title": "Skill Key Slots",
+  "screen.tensura_keybinding.open": "Key Slots",
+  "screen.tensura_keybinding.empty": "Empty",
+  "screen.tensura_keybinding.clear": "Clear Slot",
+  "screen.tensura_keybinding.no_skills": "You have not learned any skills.",
+
+  "message.tensura_keybinding.mode_changed": "%s mode: %s"
+}

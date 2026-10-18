@@ -1,0 +1,14 @@
+{
+  "key.categories.tensura_keybinding": "Tensura：按键绑定",
+  "key.tensura_keybinding.slot_1": "触发技能槽位 1",
+  "key.tensura_keybinding.slot_2": "触发技能槽位 2",
+  "key.tensura_keybinding.slot_3": "触发技能槽位 3",
+
+  "screen.tensura_keybinding.title": "技能快捷槽",
+  "screen.tensura_keybinding.open": "快捷槽设置",
+  "screen.tensura_keybinding.empty": "空",
+  "screen.tensura_keybinding.clear": "清除槽位",
+  "screen.tensura_keybinding.no_skills": "你还没有学会任何技能。",
+
+  "message.tensura_keybinding.mode_changed": "%s 模式：%s"
+}
