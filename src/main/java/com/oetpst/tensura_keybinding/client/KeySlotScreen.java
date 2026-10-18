@@ -121,8 +121,13 @@ public class KeySlotScreen extends Screen {
             return;
         }
 
+        var skillStorage = SkillAPI.getSkillsFrom(player);
+        // Drop bindings for skills the player no longer has before showing the
+        // list. This also cleans up slots left over from older versions.
+        KeySlotData.reconcileWith(skillStorage);
+
         List<ManasSkillInstance> skills = new ArrayList<>();
-        for (ManasSkillInstance instance : SkillAPI.getSkillsFrom(player).getLearnedSkills()) {
+        for (ManasSkillInstance instance : skillStorage.getLearnedSkills()) {
             ManasSkill skill = instance.getSkill();
             // Match Tensura's ability selection: skip entries without a name and
             // keep only actual skills (no magic or battlewill). Resistance-type

@@ -34,7 +34,8 @@ public final class ClientEvents {
         int guiLeft = (screen.width - 256) / 2;
         int guiTop = (screen.height - 163) / 2;
         int x = guiLeft - TAB_WIDTH;
-        int y = guiTop + 30;
+        // Vertically centre the tab on the left edge of the main panel.
+        int y = guiTop + (163 - TAB_HEIGHT) / 2;
 
         event.addListener(new KeyTabButton(
                 x, y, TAB_WIDTH, TAB_HEIGHT,
