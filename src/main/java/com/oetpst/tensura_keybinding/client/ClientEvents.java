@@ -1,4 +1,4 @@
-package com.example.tensura_keybinding.client;
+package com.oetpst.tensura_keybinding.client;
 
 import io.github.manasmods.tensura.client.screen.MainScreen;
 import io.github.manasmods.tensura.client.screen.widgets.SimpleButton;

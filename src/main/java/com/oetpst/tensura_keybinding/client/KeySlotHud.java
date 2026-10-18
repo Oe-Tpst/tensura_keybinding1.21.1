@@ -1,4 +1,4 @@
-package com.example.tensura_keybinding.client;
+package com.oetpst.tensura_keybinding.client;
 
 import io.github.manasmods.manascore.skill.api.ManasSkill;
 import io.github.manasmods.manascore.skill.api.SkillAPI;

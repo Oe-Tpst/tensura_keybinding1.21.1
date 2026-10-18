@@ -1,9 +1,9 @@
-package com.example.tensura_keybinding;
+package com.oetpst.tensura_keybinding;
 
-import com.example.tensura_keybinding.client.ClientEvents;
-import com.example.tensura_keybinding.client.KeySlotData;
-import com.example.tensura_keybinding.client.KeySlotHandler;
-import com.example.tensura_keybinding.client.KeySlotHud;
+import com.oetpst.tensura_keybinding.client.ClientEvents;
+import com.oetpst.tensura_keybinding.client.KeySlotData;
+import com.oetpst.tensura_keybinding.client.KeySlotHandler;
+import com.oetpst.tensura_keybinding.client.KeySlotHud;
 
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;

@@ -1,4 +1,4 @@
-package com.example.tensura_keybinding.client;
+package com.oetpst.tensura_keybinding.client;
 
 import java.util.ArrayList;
 import java.util.Comparator;

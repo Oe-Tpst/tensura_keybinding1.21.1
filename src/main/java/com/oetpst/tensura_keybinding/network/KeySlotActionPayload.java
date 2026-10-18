@@ -1,6 +1,6 @@
-package com.example.tensura_keybinding.network;
+package com.oetpst.tensura_keybinding.network;
 
-import com.example.tensura_keybinding.TensuraKeybinding;
+import com.oetpst.tensura_keybinding.TensuraKeybinding;
 
 import io.netty.buffer.ByteBuf;
 import net.minecraft.network.codec.ByteBufCodecs;

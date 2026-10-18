@@ -1,9 +1,9 @@
-package com.example.tensura_keybinding.client;
+package com.oetpst.tensura_keybinding.client;
 
 import java.util.Optional;
 
-import com.example.tensura_keybinding.TensuraKeybinding;
-import com.example.tensura_keybinding.network.KeySlotActionPayload;
+import com.oetpst.tensura_keybinding.TensuraKeybinding;
+import com.oetpst.tensura_keybinding.network.KeySlotActionPayload;
 
 import io.github.manasmods.manascore.skill.api.ManasSkill;
 import io.github.manasmods.manascore.skill.api.ManasSkillInstance;

@@ -1,11 +1,11 @@
-package com.example.tensura_keybinding.client;
+package com.oetpst.tensura_keybinding.client;
 
 import java.io.Reader;
 import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-import com.example.tensura_keybinding.TensuraKeybinding;
+import com.oetpst.tensura_keybinding.TensuraKeybinding;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

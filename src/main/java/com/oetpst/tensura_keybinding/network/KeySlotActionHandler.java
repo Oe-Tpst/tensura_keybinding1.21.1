@@ -1,4 +1,4 @@
-package com.example.tensura_keybinding.network;
+package com.oetpst.tensura_keybinding.network;
 
 import java.util.HashMap;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.UUID;
 
-import com.example.tensura_keybinding.TensuraKeybinding;
+import com.oetpst.tensura_keybinding.TensuraKeybinding;
 
 import io.github.manasmods.manascore.skill.api.ManasSkill;
 import io.github.manasmods.manascore.skill.api.ManasSkillInstance;

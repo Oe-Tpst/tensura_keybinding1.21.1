@@ -1,9 +1,9 @@
-package com.example.tensura_keybinding;
+package com.oetpst.tensura_keybinding;
 
 import org.slf4j.Logger;
 
-import com.example.tensura_keybinding.network.KeySlotActionHandler;
-import com.example.tensura_keybinding.network.KeySlotActionPayload;
+import com.oetpst.tensura_keybinding.network.KeySlotActionHandler;
+import com.oetpst.tensura_keybinding.network.KeySlotActionPayload;
 import com.mojang.logging.LogUtils;
 
 import net.neoforged.bus.api.IEventBus;
